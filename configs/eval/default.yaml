@@ -1,0 +1,12 @@
+parallel_size: 1 
+temperature: 1
+cfg_weight: 5
+# use_self_correction: ${use_self_correction}
+
+# txt_top_k: 50
+# txt_top_p: 1.0
+
+# img_top_k: 4096
+# img_top_p: 1.0
+
+# max_correction_steps: ${max_correction_steps}

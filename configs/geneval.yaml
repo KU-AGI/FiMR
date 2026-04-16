@@ -1,0 +1,24 @@
+save_path: 
+exp_name: 
+ckpt_path: 
+task_name: geneval
+
+geneval_path:
+
+mode: eval
+
+world_size: 8
+batch_size: 4
+type: rl
+
+use_self_correction: True
+max_correction_steps: 3
+
+seed: 42
+
+defaults:
+  - model: janus
+  - eval: eval
+  - trainer: eval
+  - dataset: eval
+  - _self_

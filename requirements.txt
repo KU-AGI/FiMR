@@ -1,0 +1,87 @@
+# Deep Learning Core
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+deepspeed
+flash_attn
+peft
+fairscale
+pytorch-lightning
+torchmetrics
+einops
+triton
+safetensors
+tokenizers
+sentencepiece
+
+# Vision & Image
+timm
+open-clip-torch
+clip
+kornia
+opencv-python
+opencv-python-headless
+pillow
+albumentations
+basicsr
+taming-transformers-rom1504
+scikit-image
+imageio
+lpips
+pycocotools
+decord
+
+# Data & HuggingFace
+datasets
+huggingface-hub
+webdataset
+lmdb
+multiprocess
+
+# NLP
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+ftfy
+jieba
+rouge-metric
+regex
+
+# Config & Experiment Tracking
+hydra-core
+omegaconf
+yacs
+easydict
+wandb
+tensorboard
+
+# Scientific Computing
+numpy
+scipy
+sympy
+networkx
+pandas
+scikit-image
+
+# Visualization & Notebooks
+matplotlib
+seaborn
+altair
+streamlit
+jupyter
+jupyterlab
+ipython
+
+# Utilities
+tqdm
+requests
+boto3
+openpyxl
+beautifulsoup4
+more-itertools
+fvcore
+ninja
+PyYAML
+pyrootutils

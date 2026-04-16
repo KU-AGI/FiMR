@@ -1,0 +1,13 @@
+batch_size: ${batch_size}
+num_workers: 4
+
+geneval: 
+t2icompbench: 
+dpgbench: 
+
+# t2icompbench
+split: val # train/val/null
+category: ["non-spatial", "complex", "color", "3d_spatial", "spatial", "texture", "shape", "numeracy"]
+
+s_idx: 
+e_idx: 

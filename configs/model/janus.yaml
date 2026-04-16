@@ -1,0 +1,5 @@
+model_path: 
+cache_dir: 
+flash_attn: True
+model_dtype: bf16
+gradient_checkpoint: True
