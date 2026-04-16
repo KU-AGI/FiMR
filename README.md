@@ -14,7 +14,7 @@
 # 📋 TODO
 - [x] Paper release
 - [x] Model checkpoint release
-- [ ] Release inference code
+- [x] Release inference code
 - [ ] Release training code
 
 # 📌 Paper Overview
